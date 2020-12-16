@@ -24,3 +24,6 @@ dist/
 # Outputs
 *.vti
 *.out
+*.avi
+*.png
+*.h5
